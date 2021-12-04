@@ -6,6 +6,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hello World!</Text>
+      <Text>This is my first React Native App using VSCode!</Text>
+      <Text>By Ching Hong Siang</Text>
       <StatusBar style="auto" />
     </View>
   );
